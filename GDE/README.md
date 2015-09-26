@@ -13,7 +13,7 @@ It's rather cool to see what happens to the population over time, as well as see
 quickly this genetic algorithm produces creatures of maximal fitness.
 
 # Note on Running
-Run the GDE java file in a terminal environment. All its output is terminal.
+Run the src/core/GDE java file in a terminal environment. All its output is terminal.
 
 # Commands
 'r' followed by a '#' -> Run the simulation for X turns.
@@ -24,7 +24,7 @@ Run the GDE java file in a terminal environment. All its output is terminal.
 
 everything else -> Moves forward one turn.
 
-# Constants
+# src/core/Constants
 It's a quick way of modifying key aspects of the simulator!
 
 # Disclaimer for Potential Employers
