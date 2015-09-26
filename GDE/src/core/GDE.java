@@ -23,11 +23,20 @@ public class GDE{
 		    ArrayList<Position> list1 = checkAroundFull(i, k);
 		    for(Position pos : list1){
 			int temp1Str = temp.getStr();
-			if(map[pos.getX()][pos.getY()].getStr() <= temp1Str){
-			    temp.setTime(0);
-			    map[pos.getX()][pos.getY()] = null;
-			    	eaten = true;
-			    break;
+			if (Constants.CAN_EAT_CREATURES_OF_EQUAL_FITNESS) {
+				if(map[pos.getX()][pos.getY()].getStr() <= temp1Str){
+				    temp.setTime(0);
+				    map[pos.getX()][pos.getY()] = null;
+				    	eaten = true;
+				    break;
+				}
+			} else {
+				if(map[pos.getX()][pos.getY()].getStr() < temp1Str){
+				    temp.setTime(0);
+				    map[pos.getX()][pos.getY()] = null;
+				    	eaten = true;
+				    break;
+				}
 			}
 		    }
 		    ArrayList<Position> list2 = checkAroundEmpty(i,k);
