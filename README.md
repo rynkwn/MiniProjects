@@ -19,7 +19,8 @@ However, if the project is here, then it satisfies the dual requirements of bein
 
 2) Able to be released to the public without embarrassing any individuals.
 
-Sadly, correct code is not one of the requirements, and I hope that my professional
-ability to produce correct code is not judged by the contents here.
+In (possibly many of) these projects, creating great, readable code was neither my concern
+nor my intention, and I hope that my professional
+ability to produce decent code is not judged by the contents here.
 
 Enjoy!
