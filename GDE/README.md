@@ -12,10 +12,16 @@ be able to consume the less fit creature.
 It's rather cool to see what happens to the population over time, as well as seeing how
 quickly this genetic algorithm produces creatures of maximal fitness.
 
+# Note on Running
+Run the GDE java file in a terminal environment. All its output is terminal.
+
 # Commands
 'r' followed by a '#' -> Run the simulation for X turns.
+
 'p' -> Displays relevant data on all organisms to terminal. Also moves forward one turn.
+
 'q' -> Quits
+
 everything else -> Moves forward one turn.
 
 # Constants
