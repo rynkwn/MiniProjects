@@ -5,7 +5,8 @@ do not merit a full repo or additional work.
 
 The quality of the code in this repo may vary wildly. Some projects were created very quickly
 on the sly on public computers, and then sent to my personal computer through whatever means
-were most convenient to me at the time. Some projects were reasonably long in length,
+were most convenient to me at the time. Some of these means may have a prejudice against
+indentation. Some projects were reasonably long in length,
 but were created by a much younger me in high school.
 
 As such, some projects (Looking at you GDE) have
