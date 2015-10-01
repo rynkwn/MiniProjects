@@ -1,3 +1,6 @@
+![Showing the commands I needed to do to run it.](s1.png?raw=true "The couple commands I needed to do to run it. Don't forget to press enter afterwards to start the first turn!")
+![Displaying the 'p' command.](s2.png?raw=true "The -1000 days ones are the food creatures!")
+
 # Garden of Eden
 This is a mini-ecological simulator. It seeds a set amount of organisms with a 
 certain genetic code as well as a set amount of initial foodstuffs. Each organism will
