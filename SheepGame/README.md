@@ -1,3 +1,5 @@
+![You're not up for roast mutton.](Screenshot.PNG?raw=true "Be sure to start in the middle!")
+
 # Can you survive as a sheep in the Apacopopalys?
 (Spelling of Apocalypse intentional at the time).
 
