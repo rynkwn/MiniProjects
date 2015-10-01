@@ -1,4 +1,4 @@
-#What is this?
+#What is this? (And a disclaimer for future employers)
 
 A repo that's mainly intended to hold small projects I had previously created, but which
 do not merit a full repo or additional work.
